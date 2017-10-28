@@ -35,7 +35,7 @@ router.get('/people', function(req, res) {
         {name: 'leesy', url: 'http://cse.postech.ac.kr/eng/wp-content/uploads/2017/05/professor12-168x191.jpg'},
         {name: 'woo', url: 'assets/woo.jpeg'},
         {name: 'ko', url: 'assets/postech.jpg'},
-        {name: 'lawch', url: 'assets/lawch.png'}, 
+        {name: 'wonseok', url: 'assets/lawch.png'}, 
         {name: 'dahn', url: 'assets/dhhwang.png'}, 
           {name: 'yongseok', url: 'assets/Yongseok_Park.jpg'},
           {name: 'swparkz', url: 'assets/swparkz.png'},
